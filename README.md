@@ -60,3 +60,5 @@ At the end, we can conclude that- 1- It is interesting to note that the majority
 5- The value of k=15 was found to be optimal for clustering the data, and it was used to group the content into ten distinct clusters.
 
 6- Using this data, a Content based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.
+
+Its was Great Project to enhance my skills.
